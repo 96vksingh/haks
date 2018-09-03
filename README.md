@@ -6,6 +6,7 @@ dependent on:
 2. Nmap
 3. arp-scan
 run ./start.sh from ms17_010 directory
+
 NOTE: edit the interface for arp-scan in start.sh
 check the report generated in data and report directory
 
